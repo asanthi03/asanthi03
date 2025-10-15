@@ -147,7 +147,11 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+    <a href="#"><img alt = "Microsoft Word" src="https://img.shields.io/badge/Microsoft&Word-%20-%231F8ACB.svg?style=plastic&logo=Microsoft&Word&logoColor=white" /></a>	
+	&emsp;
+    <a href="#"><img alt = "Microsoft Excel" src="https://img.shields.io/badge/Microsoft&Excel%20-%231F8ACB.svg?style=plastic&logo=Microsoft&Excel&logoColor=white" /></a>	
+	&emsp;
+    <a href="#"><img alt = "Outlook" src="https://img.shields.io/badge/Outlook-%20-%231F8ACB.svg?style=plastic&logo=Outlook&logoColor=white" /></a>	
  
 </p>
 
